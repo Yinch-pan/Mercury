@@ -217,7 +217,7 @@ ISC License · Copyright © 2026 Lumina Team
 |陆锦云|[@jixingtian](https://github.com/jixingtian)|
 |张震|[@zhingoll](https://github.com/zhingoll)|
 |颜泽宇|[@zeyu-Yan](https://github.com/zeyu-Yan)|
-|林宇轩|[linyuxuan123](https://github.com/linyuxuan123)|
+|林宇轩|[@linyuxuan123](https://github.com/linyuxuan123)|
 ---
 
 
