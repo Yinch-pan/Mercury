@@ -207,6 +207,17 @@ ISC License · Copyright © 2026 Lumina Team
 
 感谢 Electron、Vue、Vite、TypeScript、better-sqlite3、rss-parser、@mozilla/readability、sanitize-html、turndown、openai-node 等开源项目。
 
+## 小组成员
+|姓名|Github账号|
+|---|---|
+|潘飞扬|[@Yinch-pan](https://github.com/Yinch-pan)|
+|孙佳杰|[@JJasonSun](https://github.com/JJasonSun)|
+|xxx|[@Sheibyer](https://github.com/Sheibyer)|
+|于海洋|[@ECNUyhy](https://github.com/ECNUyhy)|
+|陆锦云|[@jixingtian](https://github.com/jixingtian)|
+|张震|[@zhingoll](https://github.com/zhingoll)|
+
+
 ---
 
-**Happy reading.** 📚
+
