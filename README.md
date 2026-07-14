@@ -212,12 +212,12 @@ ISC License · Copyright © 2026 Lumina Team
 |---|---|
 |潘飞扬|[@Yinch-pan](https://github.com/Yinch-pan)|
 |孙佳杰|[@JJasonSun](https://github.com/JJasonSun)|
-|xxx|[@Sheibyer](https://github.com/Sheibyer)|
+|刘昊阳|[@Sheibyer](https://github.com/Sheibyer)|
 |于海洋|[@ECNUyhy](https://github.com/ECNUyhy)|
 |陆锦云|[@jixingtian](https://github.com/jixingtian)|
 |张震|[@zhingoll](https://github.com/zhingoll)|
-
-
+|颜泽宇|[@zeyu-Yan](https://github.com/zeyu-Yan)|
+|林宇轩|[]()|
 ---
 
 
